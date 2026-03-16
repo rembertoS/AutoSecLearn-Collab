@@ -8,19 +8,19 @@
 6. **Flappy Bird** - A simple but addictive mobile game that became a viral hit, challenging players to guide a bird through pipes by tapping the screen to keep it flying.
 
 ## *Top Three Ideas:*
-1. AutoSec Learn
+1. **AutoSec Learn**
    - Mobile: Provides users the flexibility to learn anytime and anywhere, making educational content easily accessible on the go.
    - Story: The idea is compelling to those who are looking to improve their skills in an interesting and easy way.
    - Market: Specifically for IT professionals, but realistically anyone with a basic understanding of network configurations.
    - Habit: This could be used every day and could be incorporated into a daily routine.
    - Scope: This app can realistically be developed in one semester. 
-2. Daily Planner
+2. **Daily Planner**
    - Mobile: Meant to be used and updated throughout the day/week, so it is much easier to access via an app.
    - Story: This app is made to help our users have more organization so they can make time for the important things in life.
    - Market: CEOs, Parents, college students, anyone with a busy lifestyle that needs help keeping their tasks in order.
    - Habit: Users would preferably use it everyday to keep themselves accountable and keep track of their plans.
    - Scope: This app can realistically be developed in one semester.
-3. Flappy Bird
+3. **Flappy Bird**
    - Mobile: Since Flappy Bird is a game, it will need to be updated quite often. It is easier to update a mobile app than to update a website.
    - Story: This is interesting because it is recreating one of the most famous games that the majority of people would remember playing. It is also simple and easy enough that younger generations would get addicted to it as well.
    - Market: Anyone who likes playing mobile games
