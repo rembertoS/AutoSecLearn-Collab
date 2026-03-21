@@ -1,0 +1,25 @@
+Module 1:  Python Automation Scripting
+•	Use libraries like Netmiko to connect to network devices
+•	Send config commands and save changes programmatically
+•	Extend scripts to manage multiple devices in a loop
+•	Integrate into CI/CD pipelines or scheduled task
+
+Module 2: Multiple 
+•	Authentication Password-based vs. key-based access methods 
+•	Using automation libraries to handle credentials securely 
+•	Avoiding hardcoded secrets with environment variables or vaults   
+
+Module 3: Multi-Host Management  
+•	Loop through multiple devices from a Python list or inventory file 
+•	Apply the same configuration logic to different environments 
+•	Target dev, staging, and production from one script   
+
+Module 4: Consistent Configurations  
+•	Send standardized commands to switches, routers, and servers 
+•	Keep network behavior predictable and documented in code
+•	 Reduces drift between devices over time   
+
+Module 5: Rapid Deployment  
+•	Push updates or new settings to dozens of devices in minutes 
+•	Replaces hours of manual CLI work 
+•	Easily re-run scripts when changes are needed
