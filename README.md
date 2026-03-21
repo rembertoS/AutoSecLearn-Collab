@@ -14,7 +14,7 @@ The app has **5 tabs**:
 |-----|-------|------|-------------|
 | Home | Bryan Puckett | `HomeView.swift` | App info, team listing, features |
 | Tab 2 | Giovanna Curry | `GiovannaView.swift` | Giovanna's section |
-| Tab 3 | Rembert Silva | `RembertView.swift` | Rembert's section |
+| Tab 3 | Remberto Silva | `RembertoView.swift` | Remberto's section |
 | Tab 4 | Meagan Alfaro | `MeaganView.swift` | Meagan's section |
 | Tab 5 | Alec Rivera | `AlecView.swift` | Alec's section |
 
@@ -489,7 +489,7 @@ This undoes the commit but keeps your changes. You can then edit your code and c
 |------|------|-------|
 | **Bryan Puckett** | Project Base / App Structure / Theme | `AutoSecLearnApp.swift`, `ContentView.swift`, `HomeView.swift`, `Theme.swift` |
 | **Giovanna Curry** | Tab 2 | `GiovannaView.swift` |
-| **Rembert Silva** | Tab 3 | `RembertView.swift` |
+| **Remberto Silva** | Tab 3 | `RembertoView.swift` |
 | **Meagan Alfaro** | Tab 4 | `MeaganView.swift` |
 | **Alec Rivera** | Tab 5 | `AlecView.swift` |
 
