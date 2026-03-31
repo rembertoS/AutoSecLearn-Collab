@@ -75,10 +75,10 @@ Issues assigned to team members and added to project board
 
 ### Completed User Stories
 Bryan - Home tab displays app info and team listing
-Giovanna - Worked on Home Page
+Giovanna - Finished Module 1 flashcards
 Remberto - Finished The first module 
 Meagan - Finished the module 1 quiz 
-Alec - Finished Module 1 flashcards
+Alec - Worked on Home Page
 
 <br>
 
