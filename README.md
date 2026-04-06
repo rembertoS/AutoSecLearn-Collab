@@ -191,7 +191,7 @@ AutoSecLearn is an iOS educational app that teaches network infrastructure and c
 
 **Build Progress**
 
-> **[REPLACE THIS]** — Add GIFs or videos here showing your build progress for this milestone. Delete this text after adding them.
+[![Watch the Video](https://img.youtube.com/vi/h44xCoc0MSE/0.jpg)](https://youtube.com/shorts/h44xCoc0MSE)
 
 ### Milestone 3 — Build Sprint 2 & Demo Prep (Unit 9)
 
@@ -201,7 +201,7 @@ AutoSecLearn is an iOS educational app that teaches network infrastructure and c
 
 **Build Progress**
 
-> **[REPLACE THIS]** — Add GIFs or videos here showing your build progress for this milestone. Delete this text after adding them.
+[![Watch the Video](https://img.youtube.com/vi/GVFwa13pEXA/0.jpg)](https://youtube.com/shorts/GVFwa13pEXA)
 
 **Demo Video**
 
