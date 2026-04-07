@@ -223,8 +223,7 @@ AutoSecLearn is an iOS educational app that teaches network infrastructure and c
 
 **Demo Video**
 
-(https://www.loom.com/share/382c5f66e3f84af29d96a055b9c23917)
-
+https://www.loom.com/share/9124ca30a5374a93997c3cbadd932225
 ---
 
 ## Team
