@@ -10,22 +10,22 @@ struct ContentView: View {
 
             GiovannaView()
                 .tabItem {
-                    Label("Giovanna", systemImage: "person.fill")
+                    Label("Flashcards", systemImage: "rectangle.on.rectangle")
                 }
 
             RembertView()
                 .tabItem {
-                    Label("Rembert", systemImage: "person.fill")
+                    Label("Modules", systemImage: "book.fill")
                 }
 
             MeaganView()
                 .tabItem {
-                    Label("Meagan", systemImage: "person.fill")
+                    Label("Quiz", systemImage: "questionmark.circle.fill")
                 }
 
             AlecView()
                 .tabItem {
-                    Label("Alec", systemImage: "person.fill")
+                    Label("Certs", systemImage: "seal.fill")
                 }
         }
         .tint(AppTheme.primary)
