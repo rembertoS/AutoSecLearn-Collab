@@ -107,7 +107,17 @@ AutoSecLearn is an iOS educational app that teaches network infrastructure and c
 
 ### [BONUS] Digital Wireframes & Mockups
 
+<p float="left">
+  <img src="screenshots/home.png" width="150" />
+  <img src="screenshots/flashcards.png" width="150" />
+  <img src="screenshots/modules.png" width="150" />
+  <img src="screenshots/quiz.png" width="150" />
+  <img src="screenshots/certifications.png" width="150" />
+</p>
+
 ### [BONUS] Interactive Prototype
+
+<img src="screenshots/prototype.gif" width="300" />
 
 ## Schema
 
